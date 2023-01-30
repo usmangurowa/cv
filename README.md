@@ -2,8 +2,11 @@
 
 ## Personal Info
 > Name: Usman Gurowa Hassan
+> 
 > Email: [Usman Hassan](mailto:usmanhassangu@gmail.com)
+> 
 > Twitter: [usmangurowa](https://twitter.com/usmangurowa)
+> 
 > Github: [usmangurowa](https://github.com/usmangurowa)
 
 ### About
