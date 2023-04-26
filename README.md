@@ -19,11 +19,13 @@ Hi! I'm **Usman Gurowa Hassan**, a software developer.
 - Python
 - React
 - React-Native 
+- NestJs
 - Expo
 - Nextjs
 - Vue
 - Electron
 - Nuxtjs
+
 
 
 ## Experience With Projects
