@@ -9,7 +9,13 @@ Hi! I'm **Usman Gurowa Hassan**, a software developer.
 > Github: [usmangurowa](https://github.com/usmangurowa)
 
 ### About
-> I am a determined individual with over **2 years of work experience** in **Web development**, I have a keen interest in producing responsive web applications and finding solutions to problems. I have a strong foundation in technologies like **HTML, CSS, JavaScript, Python, React, React-Native, Node.js, Sockets, Django, Redux, Rest APIs, GraphQL, MongoDB, MySQL, and PostgreSQL**.
+> Hi 👋🏿!  I'm  Usman Hassan, a software developer with over 3 years of experience. I specialize in building dynamic websites and mobile applications using React, Next.js, React Native, and Expo.
+
+>I also build backend services with tools and frameworks like Express, fastify and Nestjs.
+
+>I have a genuine passion for building things and being part of amazing products and communities. I also love exploring new technologies and sharing what i have learn with friends or random strangers on the internet.
+
+>If  you're  seeking a dedicated developer to transform your vision into reality,  let's  connect and create something remarkable together!
 
 ## Programming Languages And Technologies i use.
 - TypeScript
