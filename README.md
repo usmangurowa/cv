@@ -1,13 +1,9 @@
-# Welcome to my CV!
-
-Hi! I'm **Usman Gurowa Hassan**, a software developer. 
-
-# Personal Info
-> Name: Usman Gurowa Hassan
+### Hi, i am Usman Hassan
+A Full stack developer with over 3 years of experience in web and mobile development.
+### Contacts
 > Email: [Usman Hassan](mailto:usmanhassangu@gmail.com)
-> Twitter: [usmangurowa](https://twitter.com/usmangurowa)
+> Twitter: [@usmangurowa](https://twitter.com/usmangurowa)
 > Github: [usmangurowa](https://github.com/usmangurowa)
-
 ### About
 > Hi 👋🏿!  I'm  Usman Hassan, a software developer with over 3 years of experience. I specialize in building dynamic websites and mobile applications using React, Next.js, React Native, and Expo.
 
@@ -17,24 +13,7 @@ Hi! I'm **Usman Gurowa Hassan**, a software developer.
 
 >If  you're  seeking a dedicated developer to transform your vision into reality,  let's  connect and create something remarkable together!
 
-## Programming Languages And Technologies i use.
-- TypeScript
-- JavaScript
-- Git / Github
-- HTML & CSS
-- Python
-- React
-- React-Native 
-- NestJs
-- Expo
-- Nextjs
-- Vue
-- Electron
-- Nuxtjs
-
-
-
-## Experience With Projects
+### Experience With Projects
 - [Brimble](https://brimble.io)
 > Brimble is a webhosting platform, that made deploying of modern web application technologies very easy and straighfoward. 
 - [Scrim](https://sendscrim.app)
@@ -57,5 +36,19 @@ https://cleep.app
 - [WhoDeySell](https://whodeysell.com.ng)
 > I built the entire front end experience of WhoDeySell with technologies like React and Nextjs, consuming REST api with AXIOS library.
 
+### Programming Languages And Technologies i use.
+- TypeScript
+- JavaScript
+- Git / Github
+- HTML & CSS
+- Python
+- React
+- React-Native 
+- NestJs
+- Expo
+- Nextjs
+- Vue
+- Electron
+- Nuxtjs
 ## Some Achievements
 - Participated in the GenZ Techies Hackfest 2022 and emerged as the winner.
