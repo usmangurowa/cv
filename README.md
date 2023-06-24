@@ -30,10 +30,14 @@ Hi! I'm **Usman Gurowa Hassan**, a software developer.
 
 ## Experience With Projects
 - [Brimble](https://brimble.io)
-> Brimble is a webhosting platform, that made deploying of modern web application technologies very easy and straighfoward. I built the GUI version of Brimble.
+> Brimble is a webhosting platform, that made deploying of modern web application technologies very easy and straighfoward. 
 - [Scrim](https://sendscrim.app)
 > Scrim is a social payment application that can be used to send money to anyone with their social identity. I built the mobile and web interfaces for Scrim.
-- [GenZ Techies Website](https://www.genztechies.com/)
+- [Figgor]((https://play.google.com/store/apps/details?id=com.usmangurowa.figorr))
+> Figorr Enterprise, Real-time monitoring for supply chain businesses, The Figorr Enterprise provides real-time end-to-end visibility into the operations of businesses in the healthcare, agro, logistics, and FMCG sectors. With reliable data such as temperature data, humidity data, and location data, businesses can scale up their operations with data-driven decisions.
+- [EearlyBean]((https://play.google.com/store/apps/details?id=com.usmangurowa.figorr))
+> Earlybean empowers kids and teens with the skills and knowledge they need to become money smart.
+- [GenZ Techies ](https://play.google.com/store/apps/details?id=co.earlybean.childapp))
 > GenZtechies is a nonprofit community fiscally sponsored by The Hack Foundation Nonprofit. I built the web site of GenZTechies using Technologies like Nextjs, and React-Query.
 - [WebShots](https://webshot.brimble.app)
 >WebShots is a web application that can be used to take screenshots of website, it also have an API endpoint users can make a HTTP get request to with a URL to a website they want to screenshot. This is a side project.
