@@ -15,12 +15,12 @@ A Full stack developer with over 3 years of experience in web and mobile develop
 
 ### Experience With Projects
 - [Brimble](https://brimble.io)
-> Brimble is a webhosting platform, that made deploying of modern web application technologies very easy and straighfoward. 
+> Brimble is a webhosting platform, that made deploying of modern web application technologies very easy and straightforward. 
 - [Scrim](https://sendscrim.app)
 > Scrim is a social payment application that can be used to send money to anyone with their social identity. I built the mobile and web interfaces for Scrim.
-- [Figgor]((https://play.google.com/store/apps/details?id=com.usmangurowa.figorr))
+- [Figgor](https://play.google.com/store/apps/details?id=com.usmangurowa.figorr)
 > Figorr Enterprise, Real-time monitoring for supply chain businesses, The Figorr Enterprise provides real-time end-to-end visibility into the operations of businesses in the healthcare, agro, logistics, and FMCG sectors. With reliable data such as temperature data, humidity data, and location data, businesses can scale up their operations with data-driven decisions.
-- [EearlyBean]((https://play.google.com/store/apps/details?id=com.usmangurowa.figorr))
+- [EearlyBean](https://play.google.com/store/apps/details?id=com.usmangurowa.figorr)
 > Earlybean empowers kids and teens with the skills and knowledge they need to become money smart.
 - [GenZ Techies ](https://play.google.com/store/apps/details?id=co.earlybean.childapp))
 > GenZtechies is a nonprofit community fiscally sponsored by The Hack Foundation Nonprofit. I built the web site of GenZTechies using Technologies like Nextjs, and React-Query.
