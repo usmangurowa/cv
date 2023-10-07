@@ -16,6 +16,8 @@ A Full stack developer with over 3 years of experience in web and mobile develop
 ### Experience With Projects
 - [Brimble](https://brimble.io)
 > Brimble is a web hosting platform, that made deploying of modern web application technologies very easy and straightforward. 
+- [Goalr](https://goalr.world)
+> Goalr
 - [Scrim](https://sendscrim.app)
 > Scrim is a social payment application that can be used to send money to anyone with their social identity. I built the mobile and web interfaces for Scrim.
 - [Figgor](https://play.google.com/store/apps/details?id=com.usmangurowa.figorr)
@@ -23,7 +25,7 @@ A Full stack developer with over 3 years of experience in web and mobile develop
 - [EarlyBean](https://play.google.com/store/apps/details?id=co.earlybean.childapp)
 > Earlybean empowers kids and teens with the skills and knowledge they need to become money smart.
 - [GenZ Techies ](https://genztechies.com)
-> GenZtechies is a nonprofit community fiscally sponsored by The Hack Foundation Nonprofit. I built the website of GenZTechies using Technologies like Nextjs, and React-Query.
+> GenZtechies is a nonprofit community fiscally sponsored by The Hack Foundation Nonprofit. I am currently the tech lead at Genztechies, collaborating with Genztechies members and building real life solutions.
 - [WebShots](https://webshot.brimble.app)
 >WebShots is a web application that can be used to take screenshots of a website, it also has an API endpoint users can make an HTTP get request with a URL to a website they want to screenshot. This is a side project.
 - [SafePal](https://github.com/usmangurowa/safepal)
