@@ -17,13 +17,13 @@ A Full stack developer with over 3 years of experience in web and mobile develop
 - [Brimble](https://brimble.io)
 > Brimble is a web hosting platform, that made deploying of modern web application technologies very easy and straightforward. 
 - [Goalr](https://goalr.world)
-> Goalr
+> Goalr is a mobile app that helps stay motivated to meet your fitness goals and earn cash in return. With Goalr you can stake on fitness challenges along with other hundreds of participants to complete a challenge.
 - [Scrim](https://sendscrim.app)
 > Scrim is a social payment application that can be used to send money to anyone with their social identity. I built the mobile and web interfaces for Scrim.
 - [Figgor](https://play.google.com/store/apps/details?id=com.usmangurowa.figorr)
 > Figorr Enterprise, Real-time monitoring for supply chain businesses, The Figorr Enterprise provides real-time end-to-end visibility into the operations of businesses in the healthcare, agro, logistics, and FMCG sectors. With reliable data such as temperature data, humidity data, and location data, businesses can scale up their operations with data-driven decisions.
 - [EarlyBean](https://play.google.com/store/apps/details?id=co.earlybean.childapp)
-> Earlybean empowers kids and teens with the skills and knowledge they need to become money smart.
+> Earlybean empowers kids and teens with the skills and knowledge they need to become money-smart.
 - [GenZ Techies ](https://genztechies.com)
 > GenZtechies is a nonprofit community fiscally sponsored by The Hack Foundation Nonprofit. I am currently the tech lead at Genztechies, collaborating with Genztechies members and building real life solutions.
 - [WebShots](https://webshot.brimble.app)
