@@ -18,7 +18,7 @@ A Full stack developer with over 3 years of experience in web and mobile develop
 > Brimble is a web hosting platform, that made deploying of modern web application technologies very easy and straightforward. 
 - [Goalr](https://goalr.world)
 > Goalr is a mobile app that helps stay motivated to meet your fitness goals and earn cash in return. With Goalr you can stake on fitness challenges along with other hundreds of participants to complete a challenge.
-- [Scrim](https://sendscrim.app)
+- [Scrim](https://scrim.ai/)
 > Scrim is a social payment application that can be used to send money to anyone with their social identity. I built the mobile and web interfaces for Scrim.
 - [Figgor](https://play.google.com/store/apps/details?id=com.usmangurowa.figorr)
 > Figorr Enterprise, Real-time monitoring for supply chain businesses, The Figorr Enterprise provides real-time end-to-end visibility into the operations of businesses in the healthcare, agro, logistics, and FMCG sectors. With reliable data such as temperature data, humidity data, and location data, businesses can scale up their operations with data-driven decisions.
